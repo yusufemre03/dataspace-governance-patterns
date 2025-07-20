@@ -29,8 +29,6 @@ Gaia-X Federated Onboarding
 **Problem**  
 How can a Gaia-X federation onboard a new organization in a way that:
 
-all without depending on a single central authority? 
-
 1. the applicant proves its legal status by providing at least N verifiable KYB credentials, issued by trusted attesters whose DIDs are included in a quorum-approved Merkle root,
 2. the organization’s signed self-description and connector information are securely linked to its DID and made available through IPFS, and
 3. every approval step is permanently recorded on-chain,
