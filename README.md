@@ -1,3 +1,18 @@
+## Table of Contents  
+
+- [Challenge 1: Participant Onboarding](#challenge-1-participant-onboarding)  
+  - [Pattern 1: Gaia-X Federated Onboarding](#pattern-1)  
+  - [Pattern 2: IDS Certified Onboarding](#pattern-2)  
+- [Challenge 2: Credential Revocation](#challenge-2-credential-revocation)  
+  - [Pattern 3: Blockchain-Anchored Status-List Revocation](#pattern-3)  
+  - [Pattern 4: DID-Signed StatusList Revocation](#pattern-4)  
+- [Challenge 3: Participant Removal](#challenge-3-participant-removal)  
+  - [Pattern 5: StatusList Batch Removal](#pattern-5)  
+  - [Pattern 6: Ethr-DID Participant Removal](#pattern-6)  
+- [Challenge 4: Policy Synchronization](#challenge-4-policy-synchronization)  
+  - [Pattern 7: Content-Addressed Policy Synchronization](#pattern-7)  
+  - [Pattern 8: GitOps OPA Bundle Synchronization](#pattern-8)  
+
 # Challenge 1: Participant Onboarding  
 
 ## Pattern 1  
