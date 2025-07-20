@@ -111,7 +111,7 @@ The pattern combines four decentralized tools: Merkle roots, CIDs, quorum DAOs, 
 
 ---
 
-### Pattern 2  
+## Pattern 2  
 
 **Name**  
 IDS Certified Onboarding  
@@ -194,7 +194,7 @@ Altogether, these mechanisms satisfy the primary forces, decentralized trust, au
 
 ## Challenge 2: Credential Revocation  
 
-### Pattern 3  
+## Pattern 3  
 
 **Name**  
 Blockchain-Anchored Status-List Revocation  
@@ -269,7 +269,7 @@ This pattern combines bit-level revocation, content addressing, and two-phase qu
 
 ---
 
-### Pattern 4  
+## Pattern 4  
 
 **Name**  
 DID-Signed StatusList Revocation  
@@ -356,7 +356,7 @@ The pattern combines bit-flipping with quorum-sealed anchoring to balance instan
 
 ## Challenge 3: Participant Removal  
 
-### Pattern 5  
+## Pattern 5  
 
 **Name**  
 StatusList Batch Removal  
@@ -443,7 +443,7 @@ This pattern combines batch bit flips, content-addressed JSON, and two types of 
 
 ---
 
-### Pattern 6  
+## Pattern 6  
 
 **Name**  
 Ethr-DID Participant Removal  
@@ -538,7 +538,7 @@ This pattern combines key lockout, batch bit flips, and two governance paths to 
 
 ---
 
-### Pattern 7  
+## Pattern 7  
 
 **Name**  
 Content-Addressed Policy Synchronization  
@@ -640,7 +640,7 @@ This pattern combines quorum approval, content addressing, and just-in-time retr
 
 ---
 
-### Pattern 8  
+## Pattern 8  
 
 **Name**  
 GitOps OPA Bundle Synchronization  
