@@ -537,6 +537,7 @@ This pattern combines key lockout, batch bit flips, and two governance paths to 
   *Why it works:* keeps all verifiers updated in seconds with low bandwidth.  
 
 ---
+# Challenge 4: Policy Synchronization  
 
 ## Pattern 7  
 
