@@ -1,3 +1,7 @@
+## Feedback  
+Found an issue or have a suggestion?  
+- Open an **Issue** in this repository
+  
 ## Table of Contents  
 
 - [Challenge 1: Participant Onboarding](#challenge-1-participant-onboarding)  
