@@ -1,6 +1,18 @@
-## Feedback  
-Found an issue or have a suggestion?  
-- Open an **Issue** in this repository
+## Want to Give Feedback?  
+
+If you **did not participate in the expert workshop** but would still like to contribute, you are very welcome to share your feedback here.  
+
+You can comment on **any pattern** you find interesting or relevant. Your insights, questions, or suggestions are highly appreciated.  
+
+### How to provide feedback  
+1. Go to the **Issues** tab at the top of this repository.  
+2. Click **New Issue**.  
+3. In the title, mention the pattern or challenge you are referring to (e.g., *“Feedback on Pattern 3 – Blockchain-Anchored Revocation”*).  
+4. In the description, write your feedback, suggestions, or questions.  
+5. Click **Submit new issue**.  
+
+All feedback will be reviewed and considered for improving the patterns. Thank you in advance for your contributions!  
+
   
 ## Table of Contents  
 
