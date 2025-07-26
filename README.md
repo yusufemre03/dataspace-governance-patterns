@@ -13,6 +13,8 @@ You can comment on **any pattern** you find interesting or relevant. Your insigh
 
 All feedback will be reviewed and considered for improving the patterns. Thank you in advance for your contributions!  
 
+**PLEASE PROVIDE THE PATTERN NUMBER WHEN PROVIDING A FEEDBACK**
+
   
 ## Table of Contents  
 
